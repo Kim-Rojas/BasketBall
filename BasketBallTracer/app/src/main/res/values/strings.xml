@@ -27,4 +27,5 @@
     <string name="choose">Choisir</string>
     <string name="modeSuivi">Mode suivi (numero de l equipe)</string>
     <string name="valider">Valider</string>
+    <string name="photoButton">Photo</string>
 </resources>

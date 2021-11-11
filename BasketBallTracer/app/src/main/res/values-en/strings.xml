@@ -25,4 +25,5 @@
     <string name="modeSuivi">Tracking mode (equipe number)</string>
     <string name="valider">Validate</string>
     <string name="timerTitle">Timer :</string>
+    <string name="photoButton">Photo</string>
 </resources>
