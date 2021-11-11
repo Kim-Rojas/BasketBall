@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F6C3BF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="409dp"
+            android:layout_height="518dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/buttonRetour"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:onClick="redirectMain"
+                    android:text="@string/retour" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/newMatch"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                android:typeface="normal" />
+
+            <TextView
+                android:id="@+id/equipe1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="60dp"
+                android:text="@string/equipe1"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/textEquipe1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/equipe2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:text="@string/equipe2"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/textEquipe2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/modeSuivi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:text="@string/modeSuivi"
+                android:textSize="20sp" />
+
+            <Spinner
+                android:id="@+id/modeSuiviBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:minHeight="48dp"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+            <Button
+                android:id="@+id/buttonValider"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="redirectMatch"
+                android:text="@string/valider" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="408dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:ignore="MissingConstraints">
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

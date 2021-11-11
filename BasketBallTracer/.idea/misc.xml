@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kimro/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_item.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/BasketBallTracer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/BasketBallTracer/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/BasketBallTracer/app/src/main/res/layout/match.xml" value="0.1" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/BasketBallTracer/app/src/main/res/layout/new_match_constraint.xml" value="0.2" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/Projet/programation_mobile/BasketBallTracer/app/src/main/res/drawable/border.xml" value="0.2703125" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/Projet/programation_mobile/BasketBallTracer/app/src/main/res/drawable/custom_button.xml" value="0.2703125" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/Projet/programation_mobile/BasketBallTracer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/Projet/programation_mobile/BasketBallTracer/app/src/main/res/layout/activity_main.xml" value="0.2078804347826087" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/Projet/programation_mobile/BasketBallTracer/app/src/main/res/layout/historical.xml" value="0.2078804347826087" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/Projet/programation_mobile/BasketBallTracer/app/src/main/res/layout/list_items.xml" value="0.1" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/Projet/programation_mobile/BasketBallTracer/app/src/main/res/layout/map.xml" value="0.2078804347826087" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/Projet/programation_mobile/BasketBallTracer/app/src/main/res/layout/match.xml" value="0.2078804347826087" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/Projet/programation_mobile/BasketBallTracer/app/src/main/res/layout/new_match_constraint.xml" value="0.2078804347826087" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/Projet/programation_mobile/BasketBallTracer/app/src/main/res/layout/oneteam.xml" value="0.4" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/Projet/programation_mobile/BasketBallTracer/app/src/main/res/layout/twoteams.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/programation_mobile_V3/BasketBallTracer/app/src/main/res/layout/activity_details.xml" value="0.16" />
+        <entry key="..\:/Users/kimro/Documents/ECE/Cours/S7/Application_mobile/programation_mobile_V3/BasketBallTracer/app/src/main/res/layout/map.xml" value="0.2105978260869565" />
+        <entry key="..\:/git/programation_mobile/BasketBallTracer/app/src/main/res/drawable/ic_timer.xml" value="0.5703125" />
+        <entry key="..\:/git/programation_mobile/BasketBallTracer/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/git/programation_mobile/BasketBallTracer/app/src/main/res/layout/historical.xml" value="0.33" />
+        <entry key="..\:/git/programation_mobile/BasketBallTracer/app/src/main/res/layout/map.xml" value="0.33" />
+        <entry key="..\:/git/programation_mobile/BasketBallTracer/app/src/main/res/layout/match.xml" value="0.25" />
+        <entry key="..\:/git/programation_mobile/BasketBallTracer/app/src/main/res/layout/new_match_constraint.xml" value="0.25" />
+        <entry key="..\:/git/programation_mobile/BasketBallTracer/app/src/main/res/layout/oneteam.xml" value="0.33" />
+        <entry key="..\:/git/programation_mobile/BasketBallTracer/app/src/main/res/layout/twoteams.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BasketBall Tracer</string>
+    <string name="titleBBT">BasketBall Tracer</string>
+    <string name="newMatch">Nouveau Match</string>
+    <string name="historical">Historique</string>
+    <string name="start">Lancer</string>
+    <string name="team">Equipe</string>
+    <string name="equipe1">Equipe 1</string>
+    <string name="equipe2">Equipe 2</string>
+    <string name="teams">Equipes</string>
+    <string name="score">Score</string>
+    <string name="nbMistakes">Fautes</string>
+    <string name="match">Match</string>
+    <string name="retour">Retour</string>
+    <string name="localisation">Localisation</string>
+    <string name="addingPoints">Points :</string>
+    <string name="threePoints_button">3 Points</string>
+    <string name="twoPoints_button">2 Points</string>
+    <string name="lance_franc_button">1 Point</string>
+    <string name="mistakes_button" translatable="false">+ 1</string>
+    <string name="timerTitle">Timer :</string>
+    <string name="date" translatable="false">Date</string>
+    <string name="langueFr">Francais</string>
+    <string name="langueEn">Anglais</string>
+    <string name="mistakes">Faults</string>
+    <string name="timer" translatable="false">Timer</string>
+    <string name="choose">Choisir</string>
+    <string name="modeSuivi">Mode suivi (numero de l equipe)</string>
+    <string name="valider">Valider</string>
+</resources>
